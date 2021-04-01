@@ -1,4 +1,4 @@
-const url = "/docs/front-end-handbook.pdf";
+const url = "/fox-pdf-viewer/docs/front-end-handbook.pdf";
 
 let pdfDoc = null,
     pageNum = 1,
